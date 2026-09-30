@@ -17,7 +17,9 @@ The dashboard segregates personal living expenses from operational disbursements
 ## 📊 Dashboard Preview
 <img width="1006" height="745" alt="image" src="https://github.com/user-attachments/assets/58cd50b8-6feb-47d5-ac2e-7e414eeca3d3" />
 
-
+### 📁 Project Files
+- 📄 [Download / View PDF Report](./Personal_Finance_Tracker.pdf)
+- 📊 [Download Power BI File (.pbix)](./Personal_Finance_Tracker.pbix)
 ---
 
 ## 🛠️ Tools & Technologies
