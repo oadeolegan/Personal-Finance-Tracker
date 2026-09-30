@@ -18,9 +18,8 @@ The dashboard segregates personal living expenses from operational disbursements
 <img width="1006" height="745" alt="image" src="https://github.com/user-attachments/assets/58cd50b8-6feb-47d5-ac2e-7e414eeca3d3" />
 
 ### 📁 Project Files
-- 📄 [Download / View PDF Report](./Personal_Finance_Tracker.pdf)
-- 📊 [Download Power BI File (.pbix)](./Personal_Finance_Tracker.pbix)
----
+https://github.com/oadeolegan/Personal-Finance-Tracker/blob/main/Personal%20Finance%20Tracker.pbix
+https://github.com/oadeolegan/Personal-Finance-Tracker/blob/main/Personal%20Finance%20Tracker.pdf
 
 ## 🛠️ Tools & Technologies
 - **Microsoft Excel:** Raw statement ingestion, column-level filtering, record sorting, removal of redundant statement rows, and category assignment.
